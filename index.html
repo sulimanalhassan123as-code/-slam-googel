@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ISLAMIC GOOGLE</title>
+  <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="ISLAMIC GOOGLE - logo" class="logo"/>
+    <h1>ISLAMIC GOOGLE</h1>
+    <p class="subtitle">Search curated Islamic lectures, books, and reminders — chosen for authenticity and benefit.</p>
+    <p class="creator">Created by SULEIMAN AL HASSAN</p>
+  </header>
+  <main>
+    <section class="hero">
+      <video src="assets/hero.mp4" autoplay muted loop playsinline controls class="hero-video"></video>
+      <div class="search-area">
+        <input type="text" id="search-input" placeholder="Search Islamic lectures, books, audio..."/>
+        <button id="search-btn">Search</button>
+      </div>
+      <div id="search-results"></div>
+    </section>
+  </main>
+  <footer>
+    <nav>
+      <a href="about.html">About</a>
+      <a href="library.html">Media/Library</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </footer>
+  <script src="js/lunr.min.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
