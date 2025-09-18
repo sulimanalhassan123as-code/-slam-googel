@@ -1,0 +1,22 @@
+[
+  {
+    "title": "How to Pray (Salah)",
+    "type": "video",
+    "speaker": "Sheikh Yusuf Estes",
+    "summary": "Step-by-step guide to Salah with references.",
+    "tags": ["prayer", "salah", "beginner"],
+    "language": "English",
+    "link": "https://youtube.com/watch?v=XXXXXXX",
+    "authenticity": "Reviewed by Sheikh Abdullah Hakim Quick"
+  },
+  {
+    "title": "Fortress of the Muslim",
+    "type": "book",
+    "author": "Sa'id bin Wahf Al-Qahtani",
+    "summary": "Collection of daily duas from authentic sources.",
+    "tags": ["dua", "book", "authentic"],
+    "language": "English",
+    "link": "https://islamicbook.com/fortress-muslim.pdf",
+    "authenticity": "Checked by scholar, authentic sources"
+  }
+]
